@@ -5,7 +5,6 @@
     "size": "1.2GB",
     "download_url": "https://huggingface.co/unsloth/Phi-4-mini-reasoning-GGUF/resolve/main/Phi-4-mini-reasoning-UD-IQ1_M.gguf",
     "parameters": "14B",
-    "version": "1.0.0",
     "model_files": {
       "model_url": "https://huggingface.co/unsloth/Phi-4-mini-reasoning-GGUF/resolve/main/Phi-4-mini-reasoning-UD-IQ1_M.gguf",
       "model_size": "1.2GB",
@@ -21,7 +20,6 @@
     "size": "1.14GB",
     "download_url": "https://huggingface.co/unsloth/Phi-4-mini-reasoning-GGUF/resolve/main/Phi-4-mini-reasoning-UD-IQ1_S.gguf",
     "parameters": "14B",
-    "version": "1.0.0",
     "model_files": {
       "model_url": "https://huggingface.co/unsloth/Phi-4-mini-reasoning-GGUF/resolve/main/Phi-4-mini-reasoning-UD-IQ1_S.gguf",
       "model_size": "1.14GB",
@@ -30,5 +28,24 @@
       "config_url": "https://huggingface.co/unsloth/Phi-4-mini-reasoning-GGUF/resolve/main/config.json",
       "config_size": "2.59KB"
     }
+  },
+  {
+    "id": "Phi-4-mini-reasoning-UD-IQ1_S",
+    "name": "PHI 4 Mini Reasoning S",
+    "size": "425MB",
+    "download_url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/qwen2.5-0.5b-instruct-q2_k.gguf",
+    "parameters": "0.5B",
+    "model_files": {
+      "model_url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/qwen2.5-0.5b-instruct-q2_k.gguf",
+      "model_size": "415MB",
+      "params_url": "",
+      "params_size": "",
+      "config_url": "",
+      "config_size": ""
+    }
   }
 ]
+
+
+
+https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/qwen2.5-0.5b-instruct-q2_k.gguf
