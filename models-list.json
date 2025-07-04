@@ -13,6 +13,7 @@
       "params_size": "187B",
       "config_url": "https://huggingface.co/unsloth/Phi-4-mini-reasoning-GGUF/resolve/main/config.json",
       "config_size": "2.59KB"
+    }
   },
   {
     "id": "Phi-4-mini-reasoning-UD-IQ1_S",
@@ -28,5 +29,6 @@
       "params_size": "187B",
       "config_url": "https://huggingface.co/unsloth/Phi-4-mini-reasoning-GGUF/resolve/main/config.json",
       "config_size": "2.59KB"
+    }
   }
 ]
