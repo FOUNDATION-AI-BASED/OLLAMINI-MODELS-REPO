@@ -40,12 +40,8 @@
       "model_size": "415MB",
       "params_url": "",
       "params_size": "",
-      "config_url": "",
-      "config_size": ""
+      "config_url": "https://huggingface.co/Qwen/Qwen2.5-0.5B/resolve/main/config.json",
+      "config_size": "681B"
     }
   }
 ]
-
-
-
-https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/qwen2.5-0.5b-instruct-q2_k.gguf
